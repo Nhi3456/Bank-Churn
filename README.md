@@ -211,7 +211,6 @@ A customer's estimated salery is not a useful predictor.
 
 
 
-```python
+
 ## Conclusion
 The analysis above mentions some valuable insights from major factors that customer churn at the bank. Besides that, recommendations are also provided above which may help to improve the churn rate at this bank.
-```
